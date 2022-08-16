@@ -1,0 +1,11 @@
+.nav {
+    padding: 1em;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.nav > span {
+    background-color: white;
+}
